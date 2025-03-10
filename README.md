@@ -23,7 +23,8 @@ The API is connected to a MySQL database. Ensure that MySQL is running and acces
 
 ### 1. Clone the repository
 git clone https://github.com/yudeeshaDev/SpringBoot_Assignment.git
-cd SpringBoot_Assignment.git
+
+clone to your folder
 
 ### 2.Configure the Database
 In src/main/resources/application.properties, configure your database connection with local dabase username and password:
